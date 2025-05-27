@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusFlow</string>
+
+    <!-- Navigation -->
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_todos">To-Dos</string>
+    <string name="nav_habits">Habits</string>
+
+    <!-- Tasks -->
+    <string name="tasks_title">Tasks</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_title">Title</string>
+    <string name="task_description">Description</string>
+    <string name="task_category">Category</string>
+    <string name="task_priority">Priority</string>
+    <string name="task_due_date">Due Date</string>
+    <string name="select_due_date">Select Due Date</string>
+    <string name="no_tasks_found">No tasks found</string>
+    <string name="tap_to_add_task">Tap + to add your first task</string>
+
+    <!-- Todo Lists -->
+    <string name="todos_title">To-Do Lists</string>
+    <string name="add_todo_list">Add Todo List</string>
+    <string name="create_todo_list">Create Todo List</string>
+    <string name="todo_list_title">Title</string>
+    <string name="todo_list_description">Description (Optional)</string>
+    <string name="todo_list_color">Color</string>
+    <string name="no_todo_lists_found">No todo lists found</string>
+    <string name="tap_to_add_todo_list">Tap + to create your first list</string>
+    <string name="completed_format">%1$d/%2$d completed</string>
+
+    <!-- Habits -->
+    <string name="habits_title">Habits</string>
+    <string name="add_habit">Add Habit</string>
+    <string name="create_habit">Create New Habit</string>
+    <string name="habit_name">Habit Name</string>
+    <string name="habit_description">Description (Optional)</string>
+    <string name="habit_frequency">Frequency</string>
+    <string name="habit_target">Target per %1$s</string>
+    <string name="habit_icon">Icon</string>
+    <string name="habit_color">Color</string>
+    <string name="no_habits_found">No habits found</string>
+    <string name="tap_to_add_habit">Tap + to create your first habit</string>
+    <string name="streak">Streak</string>
+    <string name="total">Total</string>
+
+    <!-- Common -->
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="create">Create</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear</string>
+    <string name="more_options">More options</string>
+
+    <!-- Filters -->
+    <string name="filter_all">All</string>
+    <string name="filter_active">Active</string>
+    <string name="filter_completed">Completed</string>
+    <string name="filter_today">Today</string>
+    <string name="filter_overdue">Overdue</string>
+
+    <!-- Priority -->
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+    <string name="priority_urgent">Urgent</string>
+
+    <!-- Frequency -->
+    <string name="frequency_daily">Daily</string>
+    <string name="frequency_weekly">Weekly</string>
+    <string name="frequency_monthly">Monthly</string>
+    <string name="frequency_custom">Custom</string>
+
+    <!-- Notifications -->
+    <string name="task_reminder">Task Reminder</string>
+    <string name="habit_reminder">Habit Reminder</string>
+    <string name="time_to_complete">Time to complete: %1$s</string>
+
+    <!-- Accessibility -->
+    <string name="content_description_add">Add</string>
+    <string name="content_description_search">Search</string>
+    <string name="content_description_more">More options</string>
+    <string name="content_description_delete">Delete</string>
+    <string name="content_description_clear">Clear</string>
+
+    <!-- Widget -->
+    <string name="app_widget_description">FocusFlow widget showing today\'s tasks</string>
+</resources>

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.focusflow.app-mergeDebugResources-72:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Abdom\\.gradle\\caches\\8.12\\transforms\\e827f3f205815b42e8c3858cecf649e7\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

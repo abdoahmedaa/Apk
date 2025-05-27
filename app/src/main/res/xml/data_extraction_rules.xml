@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- Exclude specific files or directories from cloud backup -->
+        <exclude domain="database" path="focusflow_database" />
+    </cloud-backup>
+    <device-transfer>
+        <!-- Include/exclude files for device-to-device transfer -->
+        <include domain="database" path="focusflow_database" />
+    </device-transfer>
+</data-extraction-rules>
